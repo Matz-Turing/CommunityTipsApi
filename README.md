@@ -1,5 +1,7 @@
 # Community Tips API
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
 Uma API Android simples para fornecer dicas de economia de combustível e manutenção de veículos.
 
 ## Características
@@ -114,3 +116,8 @@ enum class VehicleType {
 ## Licença
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+
+## Créditos
+
+Desenvolvido por Mateus S.  
+GitHub: [Matz-Turing](https://github.com/Matz-Turing)
